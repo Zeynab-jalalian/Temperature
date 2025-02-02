@@ -1,5 +1,4 @@
 # Convert Celsius to Fahrenheit
-### Let's Play!
 #### ![Languages](https://img.shields.io/github/languages/count/zeynab-jalalian/Temperature) :
  - ![Javascript](https://img.shields.io/badge/javascript-yellow)
  - ![HTML](https://img.shields.io/badge/Html-orange)
